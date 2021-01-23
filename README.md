@@ -1,2 +1,2 @@
-# AI_EX
+# AI exercises for practicing statistics
  
